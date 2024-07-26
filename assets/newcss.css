@@ -290,8 +290,8 @@ img {
 }
 .home__blob-img {
   width: 180%;
-  height: 145%;
-  padding-left: 30px;
+  height: 125%;
+  padding-inline: 100px;
 }
 .home__data {
   grid-column: 1/3;
